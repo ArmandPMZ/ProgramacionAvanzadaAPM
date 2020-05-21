@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCuadroCombinado",
+            "request": "launch",
+            "mainClass": "PruebaCuadroCombinado",
+            "projectName": "cap_11_8b74ff65"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCasillaVerificacion",
+            "request": "launch",
+            "mainClass": "PruebaCasillaVerificacion",
+            "projectName": "cap_11_8b74ff65"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaCampoTexto",
+            "request": "launch",
+            "mainClass": "PruebaCampoTexto",
+            "projectName": "cap_11_8b74ff65"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PruebaLabel",
+            "request": "launch",
+            "mainClass": "prueba_label.PruebaLabel",
+            "projectName": "cap_11_8b74ff65"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-PruebaLabel<cap_11_8b74ff65>",
+            "request": "launch",
+            "mainClass": "PruebaLabel",
+            "projectName": "cap_11_8b74ff65"
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Suma<cap_11_8b74ff65>",
+            "request": "launch",
+            "mainClass": "Suma",
+            "projectName": "cap_11_8b74ff65"
+        }
+    ]
+}
